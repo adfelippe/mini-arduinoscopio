@@ -1,0 +1,5 @@
+Mini osiloscópio para Arduino
+
+Utiliza as bibliotecas do glcd para exibição no display gráfico baseado no KS0108
+(https://code.google.com/p/glcd-arduino/)
+
